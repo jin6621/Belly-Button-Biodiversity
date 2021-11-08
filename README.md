@@ -6,23 +6,10 @@
 ---
 ---
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 
-Reference:
+
+References:
+
 [Horizontal Bar Charts in JavaScript](https://plotly.com/javascript/horizontal-bar-charts/)
 
 [Colorscales in JavaScript](https://plotly.com/javascript/colorscales/)
