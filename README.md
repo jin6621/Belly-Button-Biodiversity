@@ -1,7 +1,26 @@
 # Belly-Button-Biodiversity
-Belly Button Biodiversity
+ 
 
-[View Deployment](https://jin6621.github.io/Belly-Button-Biodiversity/)
+[Link to Deployment](https://jin6621.github.io/Belly-Button-Biodiversity/)
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 Reference:
 [Horizontal Bar Charts in JavaScript](https://plotly.com/javascript/horizontal-bar-charts/)
