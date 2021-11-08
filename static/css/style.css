@@ -1,0 +1,20 @@
+.jumbotron{
+    color:burlywood;
+    background-image: url(../image/5.Bacteria.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.h4-center{
+    color:violet
+}
+
+.panel-body{
+    color:turquoise;
+    background-color: grey;
+}
+
+.well{
+    background-color: grey;
+    color:turquoise;
+}
