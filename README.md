@@ -1,9 +1,12 @@
 # Belly-Button-Biodiversity
 Belly Button Biodiversity
 
-Reference on how to make D3.js-based horizontal bar chart in JavaScript: [Horizontal Bar Charts in JavaScript](https://plotly.com/javascript/horizontal-bar-charts/)
+[View Deployment](https://jin6621.github.io/Belly-Button-Biodiversity/)
 
-Reference on colorscales in JavaScript: [Colorscales in JavaScript](https://plotly.com/javascript/colorscales/)
+Reference:
+[Horizontal Bar Charts in JavaScript](https://plotly.com/javascript/horizontal-bar-charts/)
+
+[Colorscales in JavaScript](https://plotly.com/javascript/colorscales/)
 
 [Hover Text and Formatting in Python](https://plotly.com/python/hover-text-and-formatting/)
 
